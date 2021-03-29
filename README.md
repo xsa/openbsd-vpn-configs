@@ -1,6 +1,6 @@
 # x509 authentication with VPN Tracker on Mac OS X for road-warriors clients
 
-Contribued back in 2004 as part of the **BSDCow.net** project: https://www.vpntracker.com/cms_components/us/media/files/openbsd/index.html
+Contributed back in 2004 as part of the **BSDCow.net** project.
 
 ## Files
 
@@ -17,4 +17,5 @@ Contribued back in 2004 as part of the **BSDCow.net** project: https://www.vpntr
 
 ## Links
 - [VPNTracker Official Website](https://www.vpntracker.com)
+- [Above files hosted on VPNTracker.com](https://www.vpntracker.com/cms_components/us/media/files/openbsd/index.html)
 

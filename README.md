@@ -5,13 +5,13 @@ Contribued back in 2004 as part of the **BSDCow.net** project: https://www.vpntr
 ## Files
 
 ### OpenBSD configuration files:
-- /etc/isakmpd/isakmpd.conf
-- /etc/isakmpd/isakmpd.policy
+- [/etc/isakmpd/isakmpd.conf](x509-vpntracker-rw-etc-isakmpd-isakmpd.conf)
+- [/etc/isakmpd/isakmpd.policy](x509-vpntracker-rw-etc-isakmpd-isakmpd.policy)
 
 ### VPN Tracker configuration screenshots:
-- Main window
-- Phase 1 configuration
-- Phase 1 Proposal configuration
-- Phase 2 configuration
-- x509 certificates configuration
+- [Main window](VPNTracker_Main.jpg)
+- [Phase 1 configuration](VPNTracker_Phase1.jpg)
+- [Phase 1 Proposal configuration](VPNTracker_Phase1Prop.jpg)
+- [Phase 2 configuration](VPNTracker_Phase2.jpg)
+- [x509 certificates configuration](VPNTracker_Certs.jpg)
 

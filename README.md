@@ -2,6 +2,12 @@
 
 Contributed back in 2004 as part of the **BSDCow.net** project.
 
+## Platforms and Versions
+- [OpenBSD 3.2](http://www.openbsd.org/32.html)
+- [Mac OS X 10.3.x (Panther)](http://www.apple.com/macosx/)
+- [VPN Tracker 2.2.4](http://www.equinux.com/)
+
+
 ## Files
 
 ### OpenBSD configuration files:

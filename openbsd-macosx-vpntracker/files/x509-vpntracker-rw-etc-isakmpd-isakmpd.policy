@@ -1,0 +1,10 @@
+#	$BSDcow: x509-vpntracker-rw-isakmpd.policy,v 1.2 2004/03/19 16:01:14 xsa Exp $
+# /etc/isakmpd/isakmpd.policy
+
+KeyNote-Version: 2
+Comment: This policy accepts ESP SA's from hosts with certs signed by our CA
+Authorizer: "POLICY"
+Licensees: "DN:/C=BE/ST=Brussels/L=Brussels/O=Org/OU=Dept/CN=my.vpn.box.tld/emailAddress=xsa@our.domain.tld"
+Conditions: app_domain == "IPsec policy" &&
+	    esp_present == "yes" &&
+            esp_enc_alg != "null" -> "true";

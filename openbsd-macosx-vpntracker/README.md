@@ -1,7 +1,5 @@
 # x509 authentication with VPN Tracker on Mac OS X for road-warriors clients
 
-Contributed back in 2004 as part of the **BSDCow.net** project.
-
 ## Platforms and Versions
 - [OpenBSD 3.2](http://www.openbsd.org/32.html)
 - [Mac OS X 10.3.x (Panther)](http://www.apple.com/macosx/)
@@ -24,4 +22,6 @@ Contributed back in 2004 as part of the **BSDCow.net** project.
 ## Links
 - [VPNTracker Official Website](https://www.vpntracker.com)
 - [Above files hosted on VPNTracker.com](https://www.vpntracker.com/cms_components/us/media/files/openbsd/index.html)
+
+*Published on Mar 19, 2004 as part of the Open.BSDcow.net project*
 
